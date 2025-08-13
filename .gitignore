@@ -1,0 +1,11 @@
+.env
+test_*
+youtube_client.*
+token.json
+token*.json
+REFACTORING_SUMMARY.md
+
+app/temp/
+venv/
+__pycache__/
+*.pyc
