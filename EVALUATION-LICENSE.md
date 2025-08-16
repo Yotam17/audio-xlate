@@ -1,4 +1,4 @@
-Copyright (c) 2025 <Your Name>. All rights reserved.
+Copyright (c) 2025 Yotam Rosenthal. All rights reserved.
 
 Permission is granted to view, clone locally, and run this software solely for evaluation,
 non-commercial, and recruitment purposes. Any other use — including commercial use,
